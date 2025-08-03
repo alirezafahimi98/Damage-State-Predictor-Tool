@@ -6,7 +6,7 @@ A standalone desktop application for rapid seismic damage, loss, and repair time
 ## 📥 **Download**
 👉 [**Download the latest release here**](https://github.com/alirezafahimi98/Damage-State-Predictor-Tool/releases)
 
-The executable is packaged as a **single .exe file** using **PyInstaller** and **obfuscated with PyArmor** for source code protection.
+The executable is packaged as a **single .exe file** using **PyInstaller**.
 
 ---
 
@@ -45,5 +45,5 @@ Please cite the related paper in your work.
 ---
 
 ## 👨‍💻 **Author**
-Alireza Fahimi 
+Alireza Fahimi
 Email: alirezafahimi.civileng@gmail.com 
