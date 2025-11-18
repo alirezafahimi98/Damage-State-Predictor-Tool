@@ -1,5 +1,5 @@
 # 🏗️ Damage State Predictor (DSP)
-A standalone desktop application for rapid seismic damage, loss, and repair time assessment (currently for steel moment-resisting frames)
+A standalone desktop application for rapid seismic damage probabilities and expected repair cost ratio, economic loss, and repair and recovery time assessment (currently for steel moment-resisting frames)
 
 ---
 
